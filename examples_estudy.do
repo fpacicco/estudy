@@ -1,7 +1,3 @@
-
-
-
-cd "C:\Users\faust\OneDrive - UNIVERSITA' CARLO CATTANEO - LIUC\Paperi\Event study ADO\estudy_2_1"
 capture log close
 
 use examples_estudy.dta
