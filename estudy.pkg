@@ -1,0 +1,24 @@
+v 1
+d 'ESTUDY': module to perform event studies
+d
+d estudy allows the user to perform event studies with multiple varlists and up
+d to six event windows. Parametric and non-parametric diagnostics are allowed
+d as well as several options to customize the analytical set-up.
+d
+d KW: estudy
+d KW: event study
+d KW: financial econometrics
+d
+d Requires: Stata version 13
+d
+d Distribution-Date: 20180108
+d
+d Author: Fausto Pacicco, Luigi Vena, Andrea Venegoni
+d         LIUC Università Carlo Cattaneo
+d         Castellanza (VA), Italy
+d
+d Support: email fpacicco@liuc.it
+d
+f estudy.ado
+f estudy.sthlp
+f examples_estudy.dta

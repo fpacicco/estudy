@@ -1,0 +1,2 @@
+v 1
+p estudy module to perform customised event studies, with parametric and non-parametric tests
